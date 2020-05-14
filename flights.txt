@@ -1,0 +1,10 @@
+Activity,Flight Number,From,To,Scheduled Departure,Scheduled Arrival,Takeoff,Landing,Delayed Hours,Airlines,Aircraft Model
+Canceled,12,Istanbul,Tokio,15-05-2020 23:00,16-05-2020 03:00,15-05-2020 23:00,,0,Turkish Airlines,Boeing 747
+Landing,23,London,Istanbul,13-05-2020 04:00,13-05-2020 11:00,13-05-2020 04:00,14-05-2020 01:00,0,Qatar Airlines,Boeing 777-30ER
+Takeoff,12,London,Paris,13-05-2020 01:00,13-05-2020 12:00,13-05-2020 01:00,,0,fasfas,afafa
+Takeoff,13,Washington,Tokio,13-05-2020 01:00,13-05-2020 06:00,13-05-2020 01:00,,0,Turkish Airlines,Boeing 747
+Takeoff,1,Istanbul,Paris,13-05-2020 01:00,13-05-2020 10:00,13-05-2020 01:00,,0,Turkish Airlines,Boeing 747
+Takeoff,14,Paris,Tokio,13-05-2020 01:00,13-05-2020 08:00,13-05-2020 01:00,,0,Turkish Airlines,Boeing 747
+Takeoff,2,London,Washington,13-05-2020 03:00,14-05-2020 00:00,13-05-2020 03:00,,0,Emirates Airlines,Boeing 777
+Takeoff,11,Tokio,Paris,13-05-2020 03:00,13-05-2020 06:00,13-05-2020 03:00,,0,Turkish Airlines,Boeing 777
+Takeoff,23,London,Istanbul,13-05-2020 05:00,13-05-2020 12:00,13-05-2020 05:00,,0,Qatar Airlines,Boeing 777-30ER
